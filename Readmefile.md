@@ -1,4 +1,5 @@
 	PROJECT 01
+	A brief journey about my life
 
 Project I, is a work in progress that contain five folders, each one describing specific aspects related to the author:
 Folder I,  Who m'I
